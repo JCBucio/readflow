@@ -1,3 +1,13 @@
+# VSCode settings
+.vscode/
+
+# Expo
+.expo/
+web-build/
+
+# OS
+.DS_Store
+
 # Logs
 logs
 *.log
